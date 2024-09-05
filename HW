@@ -1,0 +1,16 @@
+Homework:
+DONE 1. take 2 implementations of mergeSort and LSD(RADIX) and compare them
+2. implement hashSet method of matching strings and sorting method, 
+compare them
+3. look at picard tools
+
+4. implement 3 different approaches to find peptides  
+
+
+5. Checkout maps and tree maps (with sortedMaps, consurrentMaps)
+6. Checkout Array sort and comparableTimSort
+
+
+7. make BlockingQueue thread safe: race condition 
+
+8. adjecency list: make vertices strings
